@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="assets/header.jpg" alt="JOMOplay Lite: Just the music." width="100%">
+</p>
+
 # JOMOplay Lite
 
-**Just the music.** JOMOplay with everything else taken away. Load a playlist, press play, shuffle. Light enough to keep your Mac cool.
+**Just the music.**
+
+*Dan Rodriguez · [UltraNarrative](https://www.ultranarrative.com) · [ultranarrative.com/tools](https://www.ultranarrative.com/tools) · [dan@ultranarrative.com](mailto:dan@ultranarrative.com) · October 2026*
+
+---
+
+JOMOplay with everything else taken away. Load a playlist, press play, shuffle. Light enough to keep your Mac cool.
 
 Free, for a Mac with Apple silicon, macOS 12 or later. This repository holds the installer only. More free apps at [ultranarrative.com/tools](https://www.ultranarrative.com/tools).
 
